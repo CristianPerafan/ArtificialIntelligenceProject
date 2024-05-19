@@ -1,2 +1,5 @@
 /Data
-/models
+/models/knn.pkl
+/models/randomForest.pkl
+/models/xgboost.pkl
+/features/extracted_features_3.csv
